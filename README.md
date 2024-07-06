@@ -6,4 +6,4 @@ Pastebin app for Android. Sharing messages and picures for Internet urers and yo
 4) Design: Nikita Ananiev, Andrew Shalunov
 5) Backend: Ospelnikov Alexey, Vlasov Vladislav, Dmitriy Fadeev
 
-Stack - Java, Yandex Cloud Storage, Firebase, Django
+Stack: Java, Yandex Cloud Storage, Firebase, Django
