@@ -1,5 +1,7 @@
 Pastebin app for Android. Sharing messages and picures for Internet urers and your friends.
 
+Read more on [Google Docs](https://docs.google.com/document/d/1I2gcjwPtBchzVTxlplb5VIwYo4nEbNCP/edit#heading=h.lrbmf81p8noy)
+
 1) Team-lead: Polyshuck Ilya
 2) Tech-lead: Ospelnikov Alexey
 3) Frontend: Nikita Ananiev, Andrew Shalunov, Ospelnikov Alexey
